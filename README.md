@@ -1,5 +1,6 @@
 # Northrop-Grumman-Image-Recognition-Challenge
-Northrop Grumman Image Recognition Challenge
+
+[Northrop Grumman Image Recognition Challenge](http://mtech.umd.edu/ng/challenges/northrop-grumman-mission-systems-innovation-challenge-image-recognition.html)
 
 [Download](
 https://drive.google.com/drive/folders/1sp1uDHaKaVRh2dnZvcc_uXbSmwzg-BW3?usp=sharing) the pretrained model for detecting the emergency vehicles like firetruck, police car and ambulance from 
