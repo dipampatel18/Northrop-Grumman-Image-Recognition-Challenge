@@ -6,7 +6,11 @@ Northrop Grumman organized an [Image Recognition Challenge](http://mtech.umd.edu
 
 The end goal of this competition was to build a robust mechanism that would accurately detect the emergency vehicles in a scenario having low visibility, obstruction and unexpected behaviors. We used Transfer Learning and the Faster RCNN pre-trained model. We took the benefit of Data Augmentation by using 5200+ images in our dataset.  The sheer amount of data and unique approach allowed us to stand out from all the other competitors.
 
-All of these together led us to win the #FirstPrize of $2000 Scholarship Money! We are thankful to Northrop Grumman for giving us this opportunity to explore our limits.
+All of these together led us to win the First Prize of $2000 Scholarship Money! We are thankful to Northrop Grumman for giving us this opportunity to explore our limits.
+
+<p align="center">
+  <img width="600" height="380" src="Winners.jpg">
+</p>
 
 ### Getting Started
 
